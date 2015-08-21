@@ -1,0 +1,5 @@
+Location:Stony Brook New York
+Hometown:Shahada
+College1:Pimpri Chinchwad College of Engineering
+College2:Stony Brook University
+Work:Tata Consultancy Services
