@@ -3,9 +3,9 @@ This project is developed as part of CSE592 - Social Networks Course Project at 
 
 ## Summary
 - Project aimed to cluster the individual’s ego network into possible social circles and analyze the structure of each circle and abstract the common parameters and derive why a particular circle was formed and label the circle and verify with the ground truth
-- Project was developed in two modules, 
+- Project is developed in two modules, 
 	* first module programmed in MATLAB involved mapping of ego network and clustering using kMeans clustering 
-	* second module programmed in Java invloved constructing algorithm which runs series of comparisons with different samples and finally label the circle appropriately based 	  on its results
+	* second module programmed in Java invloved constructing algorithm which runs series of comparisons with different samples and finally label the circle appropriately based on its results
 
 For more details [Click Here](https://github.com/kavanaanand09/SocialCircles-StructureAnalysis/blob/master/projectSocialNetworks.pdf)
 
