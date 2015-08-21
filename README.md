@@ -7,7 +7,7 @@ This project is developed as part of CSE592 - Social Networks Course Project at 
 	* first module programmed in MATLAB involved mapping of ego network and clustering using kMeans clustering 
 	* second module programmed in Java invloved constructing algorithm which runs series of comparisons with different samples and finally label the circle appropriately based 	  on its results
 
-For more details Click Here
+For more details [Click Here](https://github.com/kavanaanand09/SocialCircles-StructureAnalysis/blob/master/projectSocialNetworks.pdf)
 
 ## Source Code Files: 
 1. getAdjacencyMatrix.java - Program that takes mutual links as input and outputs the corresponding adjacency matrix
